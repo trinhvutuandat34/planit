@@ -152,14 +152,17 @@ planit/
 ### 메인 페이지
 ![메인 페이지](screenshots/main_page.png)
 *PlanIt 메인 대시보드 - 시간표와 플래너가 통합된 인터페이스*
+<img width="1900" height="880" alt="주석 2025-11-17 094509" src="https://github.com/user-attachments/assets/ab07d13e-3594-4dc1-9ce3-dcc97e4f538a" />
 
 ### 시간표 관리
 ![시간표 관리](screenshots/timetable.png)
 *수정 가능한 시간표 인터페이스 - 드래그 앤 드롭으로 쉽게 편집*
+<img width="1896" height="876" alt="주석 2025-11-17 094541" src="https://github.com/user-attachments/assets/c8f5f6b9-5db6-450d-8f7e-d8604b4144f0" />
 
 ### 스터디 플래너
 ![스터디 플래너](screenshots/planner.png)
 *개인 맞춤형 학습 계획 및 진도 관리*
+<img width="1897" height="880" alt="주석 2025-11-17 094643" src="https://github.com/user-attachments/assets/add13ea6-983b-47b9-a776-4dc7a42e56ea" />
 
 ### 커뮤니티
 ![커뮤니티](screenshots/community.png)
